@@ -1,0 +1,9 @@
+body{
+	background-image: linear-gradient(red, yellow);
+}
+
+#code{
+	font-style:italic;
+	font-size:30px;
+	text-decoration:underline;
+}
